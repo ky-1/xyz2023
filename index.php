@@ -173,6 +173,39 @@
     <p class="lead">funny site!!!</p>
     <a class="btn btn-lg btn-primary" href="#" role="button">okay &raquo;</a>
   </div>
+  <hr>
+  <div class="row g-5">
+      <div class="col-md-6">
+        <h2 class="text-body-emphasis">ThinkCentre M73</h2>
+        <p>These are the specs of my PC.</p>
+        <ul class="list-unstyled ps-0">
+          <li>
+            Intel Core i3-4130
+          </li>
+          <li>8GB DDR3</li>
+<li>Intel HD 4400</li>
+<li>Belkin N150 USB Wireless Adapter</li>
+<li>Samsung 128GB SSD</li>
+          
+          
+        </ul>
+      </div>
+
+      <div class="col-md-6">
+        <h2 class="text-body-emphasis">ThinkPad T430i</h2>
+        <p>These are the specs of my new laptop.</p>
+        <ul class="list-unstyled ps-0">
+          <li>
+            Intel Core i3-2328M (will upgrade to i5-3320M though)
+          </li>
+          <li>8GB DDR3</li>
+<li>Intel HD 3000</li>
+<li>240GB SSD</li>
+          
+          
+        </ul>
+      </div>
+    </div>
 </main>
 
 
